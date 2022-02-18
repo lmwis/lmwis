@@ -1,7 +1,11 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 11 February, 2022 - 17 February, 2022
+
+Total: 0 secs
+
+
 ```
 <!--END_SECTION:waka-->
 <!--
