@@ -1,9 +1,7 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
 ```text
-From: 17 February, 2022 - To: 24 February, 2022
-
-Java   42 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 <!--
