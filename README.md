@@ -2,7 +2,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 17 April 2022 - To: 24 April 2022
+
+Java   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 %
 ```
 
 <!--END_SECTION:waka-->
